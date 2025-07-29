@@ -61,12 +61,8 @@ To reproduce the analysis locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/FoodHub-EDA.git
-cd FoodHub-EDA
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+git clone https://github.com/cslivingstoniii/aiml_ut_foodhub.git
+cd aiml_ut_foodhub
 
 # Install dependencies
 pip install -r requirements.txt
