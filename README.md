@@ -92,10 +92,10 @@ Hi, I’m **Steve Livingston**, a software engineer and AI/ML practitioner with 
 
 ## My Links
 
-- LinkedIn Profile:     [Visit Me on LinkedIn](https://www.linkedin.com/in/cslivingstoniii)                    | https://www.linkedin.com/in/cslivingstoniii
-- GitHub Repos:         [View on GitHub](https://github.com/cslivingstoniii)                                   | https://github.com/cslivingstoniii
-- HuggingFace Spaces:   [View on HuggingFace](https://huggingface.co/cslivingstoniii)                          | https://huggingface.co/cslivingstoniii
-- Great Learning:       [View on Great Learning](https://www.mygreatlearning.com/eportfolio/carl-s-livingston) | https://www.mygreatlearning.com/eportfolio/carl-s-livingston
+- LinkedIn Profile:     https://www.linkedin.com/in/cslivingstoniii
+- GitHub Repos:         https://github.com/cslivingstoniii
+- HuggingFace Spaces:   https://huggingface.co/cslivingstoniii
+- Great Learning:       https://www.mygreatlearning.com/eportfolio/carl-s-livingston
 
 ## License  
 This project is licensed under the [MIT License](LICENSE).
