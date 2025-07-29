@@ -73,7 +73,7 @@ Hi, I’m **Steve Livingston**, a software engineer and AI/ML practitioner with 
 - Exploratory data analysis  
 - Business intelligence  
 
-🔗 [LinkedIn](https://linkedin.com/in/cslivingston) | [GitHub](https://github.com/cslivingstoniii) | [GreatLearning](https://www.mygreatlearning.com/eportfolio/carl-s-livingston)  
+🔗 [LinkedIn](https://linkedin.com/in/cslivingston) | [GitHub](https://github.com/cslivingstoniii) | [HuggingFace](https://huggingface.co/cslivingstoniii) | [GreatLearning](https://www.mygreatlearning.com/eportfolio/carl-s-livingston)  
 
 ## License  
 This project is licensed under the [MIT License](LICENSE).
