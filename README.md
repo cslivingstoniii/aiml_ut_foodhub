@@ -1,3 +1,21 @@
+---
+title: "FoodHub Data Analysis"
+emoji: 🥡
+colorFrom: orange
+colorTo: pink
+sdk: static
+app_file: FoodHub_Project.ipynb
+license: mit
+tags:
+  - python
+  - eda
+  - data-visualization
+  - data-science
+  - exploratory-data-analysis
+  - business-intelligence
+  - notebook
+---
+
 # FoodHub Data Analysis  
 **Exploratory Data Analysis | Python | Business Intelligence | Data Storytelling**
 
