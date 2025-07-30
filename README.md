@@ -4,6 +4,7 @@ emoji: 🥡
 colorFrom: indigo
 colorTo: pink
 sdk: static
+app_file: FoodHub_Project.html
 license: mit
 tags:
   - python
