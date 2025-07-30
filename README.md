@@ -78,7 +78,8 @@ jupyter notebook FoodHub_Project.ipynb
 - Clean and interpretable visualization techniques  
 - Communication of findings for non-technical stakeholders  
 
-## About the Author  
+## About the Author
+
 Hi, I’m **Steve Livingston**, a software engineer and AI/ML practitioner with a passion for applying data science to real-world problems. This project is part of my public portfolio to demonstrate applied skills in:
 
 - Python programming  
@@ -93,9 +94,11 @@ Hi, I’m **Steve Livingston**, a software engineer and AI/ML practitioner with 
 - HuggingFace Spaces:   https://huggingface.co/cslivingstoniii
 - Great Learning:       https://www.mygreatlearning.com/eportfolio/carl-s-livingston
 
-## License  
+## License
+
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments  
+## Acknowledgments
+  
 - Data provided as part of the **University of Texas AI/ML Post Graduate Certification Program**.  
 - Notebook design inspired by real-world data analysis patterns used in tech-driven companies.
